@@ -1,0 +1,45 @@
+body{
+height:80vh;
+width:100vw;
+display:flex;
+flex-wrap:wrap;
+background-color: #DEB887;
+}
+.hover:hover {
+	box-shadow: 0px 0px 150px #000;
+	z-index: 2;
+	-ms-transition: all 200ms ease-in;
+	-ms-transform: scale(1.01);
+	-moz-transition: all 200ms ease-in;
+	-moz-transform: scale(1.01);
+	transition: all 200ms ease-in;
+	transform: scale(1.01);
+	overflow: visible;
+	cursor: pointer;
+}
+
+.box:active {
+	transform: scale(0.99, 0.99);
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color:black;
+}
+.text{
+  font-family:Shrikhand;
+  font-size:60px;
+	padding:15px;
+
+}
+.head{
+  height:10vh;
+  width:100vw;
+
+}
+.page{
+  height:40vh;
+  width:55vw;
+  display:inline-flex;
+}

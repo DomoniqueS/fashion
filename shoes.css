@@ -1,1 +1,25 @@
+body{
+height:200vh;
+width:100vw;
+font-family: 'ABeeZee', sans-serif;
+ background-color: black;
+color: white;}
 
+#hello{
+  background-color: black;
+}
+
+
+h1{
+  font-size: 200px;
+  font-family: 'ABeeZee', sans-serif;
+  text-shadow: 4px 4px 16px #ff0000;
+
+}
+p{
+  text-shadow: 4px 4px 16px #ff0000;
+
+}
+.title{
+  font-size: 60px;
+}

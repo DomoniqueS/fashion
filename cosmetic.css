@@ -6,9 +6,6 @@ background-repeat: no-repeat;
 background-size: auto;
 background-position: center center;
 background-image: none;
- 
-
-
 }
 
 #starshine {
@@ -133,11 +130,6 @@ flex-wrap:wrap;
     }
 
   }
-
-
-
-
-
   html  {
 
     font-family: Lato;
@@ -202,28 +194,5 @@ flex-wrap:wrap;
     margin: 10px auto;
 
   }
-=======
-<!--body3{
-height:50vh;
-width:100vw;
-background-color:#008080;
-display:flex;
-flex-wrap:wrap;
-}-->
-.text2{
-  font-size:60px;
-}
-.row{
-  height:50vh;
-  width:25vw;
-  display:block;
-}
-.row2{
-  height:50vh;
-  width:25vw;
-  display:block;
-}
-.head2{
-  height:40vh;
-  width:100vw;
-}
+
+

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .body3 {
 padding: 0;
 margin:0;
@@ -142,7 +143,7 @@ flex-wrap:wrap;
 
     // awesome background from: https://codepen.io/bosscause/pen/BkxbC <3
 
-    background: #110019;
+    background: #092756;
     background: -moz-radial-gradient(0% 100%, ellipse cover, rgba(35, 24, 82, 0.22) 10%,rgba(138,114,76,0) 40%),-moz-linear-gradient(top, rgba(57,173,219,.25) 0%, rgba(42,60,87,.4) 100%), -moz-linear-gradient(-45deg, #670d10 0%, #092756 100%);
     background: -webkit-radial-gradient(0% 100%, ellipse cover, rgba(35, 24, 82, 0.22) 10%,rgba(138,114,76,0) 40%), -webkit-linear-gradient(top, rgba(57,173,219,.25) 0%,rgba(42,60,87,.4) 100%), -webkit-linear-gradient(-45deg, #670d10 0%,#092756 100%);
     background: -o-radial-gradient(0% 100%, ellipse cover, rgba(35, 24, 82, 0.22) 10%,rgba(138,114,76,0) 40%), -o-linear-gradient(top, rgba(57,173,219,.25) 0%,rgba(42,60,87,.4) 100%), -o-linear-gradient(-45deg, #670d10 0%,#092756 100%);
@@ -195,5 +196,29 @@ flex-wrap:wrap;
     margin: 10px auto;
 
   }
-
-
+=======
+body2{
+height:50vh;
+width:100vw;
+background-color:grey;
+display:flex;
+flex-wrap:wrap;
+}
+.text2{
+  font-size:60px;
+}
+.row{
+  height:50vh;
+  width:25vw;
+  display:block;
+}
+.row2{
+  height:50vh;
+  width:25vw;
+  display:block;
+}
+.head2{
+  height:40vh;
+  width:100vw;
+}
+>>>>>>> b2933b6f9cacb5a0fb0d866838e0182181bae91c

@@ -1,7 +1,7 @@
 body3 {
 padding: 0;
 margin:0;
-background-color: #110019;
+background-color:#008080;
 background-repeat: no-repeat;
 background-size: auto;
 background-position: center center;
@@ -83,7 +83,7 @@ background-size: 100% 100%;
 body3{
 height:50vh;
 width:100vw;
-background-color: #110019;;
+background-color:#008080;
 display:flex;
 flex-wrap:wrap;
 }

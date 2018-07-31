@@ -203,13 +203,13 @@ flex-wrap:wrap;
 
   }
 =======
-body3{
+<!--body3{
 height:50vh;
 width:100vw;
 background-color:#008080;
 display:flex;
 flex-wrap:wrap;
-}
+}-->
 .text2{
   font-size:60px;
 }
